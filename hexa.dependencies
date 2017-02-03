@@ -1,0 +1,8 @@
+[
+ {
+   "remote":      "github",
+   "repository": "LineageOS/android_kernel_lge_hammerhead",
+   "target_path": "kernel/lge/hammerhead",
+   "revision":      "cm-14.1"
+ }
+]
