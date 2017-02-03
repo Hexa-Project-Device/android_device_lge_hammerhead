@@ -34,7 +34,7 @@
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>
-  <![CDATA[ Nazunamoe ]]>
+  <![CDATA[ nazunamoe ]]>
   </Developer>
   <WebsiteURL nil="true"/>
   <DonateURL nil="true"/>
