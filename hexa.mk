@@ -13,7 +13,7 @@ $(call inherit-product, device/lge/hammerhead/full_hammerhead.mk)
 PRODUCT_PROPERTY_OVERRIDES += \
   ro.ota.romname=Hexa-Project-Hammerhead \
   ro.ota.version=$(shell date -u +%Y%m%d) \
-  ro.ota.manifest=https://raw.githubusercontent.com/Hexa-Project-Device/android_device_lge_hammerhead/cm-14.1/ota.xml
+  ro.ota.manifest=https://raw.githubusercontent.com/Hexa-Project/release_hamm/master/ota.xml
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := hammerhead
